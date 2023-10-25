@@ -1,4 +1,4 @@
-import soungwon.Case1;
+import base.Case1;
 
 public class Main {
     public static void main(String[] args) {
